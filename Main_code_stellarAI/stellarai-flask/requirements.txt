@@ -1,0 +1,8 @@
+flask
+python-dotenv
+pd
+sklearn
+numpy
+pandas
+nltk
+PyPDF2
